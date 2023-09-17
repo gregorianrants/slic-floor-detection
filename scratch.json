@@ -1,0 +1,26 @@
+{
+        "type": "start-algorithm",
+        "name": "threshold",
+        "parameters": {
+                "a": "5"
+        }
+}
+
+{
+        "type": "algorithim-state",
+        "algorithim-name": "threshold",
+        "value": {
+                "running": true
+        }
+}
+
+{
+        "type": "set-algorithim-state",
+        "value": {
+                "a": 5
+        }
+
+
+}
+
+
